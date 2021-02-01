@@ -5,6 +5,10 @@
 
 **Help (python Hunter.py --help / -h )**
 
+# Checking Username on
+* bug bounty/CTF platforms and Security blogs and Subdomain by user in github/wordpress (user.github.io ,user.wordpress.com etc) and more 45+ 
+* Sites out of scope this tool for example but not limited HackTheBox or more (because it's based in id not user) 
+
 # False Positive
 i will show you example with (OpenBugBounty) Save and Run This Code 
 
